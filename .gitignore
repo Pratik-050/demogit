@@ -1,2 +1,4 @@
 *.log
 /dir/
+key 
+key.pub
